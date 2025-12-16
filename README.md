@@ -1,4 +1,4 @@
-# Hi, I'm Rayan Khan!
+# Hi, I'm Rayan!
 
 ### 💻 Computer Science Student | Aspiring Software Developer
 
