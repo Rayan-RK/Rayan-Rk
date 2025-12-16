@@ -19,7 +19,7 @@ Currently pursuing a Bachelor of Science in Computer Science at **The University
 
 ### 🛠 Core Tech Stack & Tools
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
       <p align="center">
@@ -75,3 +75,9 @@ Currently pursuing a Bachelor of Science in Computer Science at **The University
 * **LinkedIn:** [linkedin.com/in/rayan-khan-95b85932b](https://linkedin.com/in/rayan-khan-95b85932b)
 * **Email:** linkworkrayan@gmail.com
 * **Phone:** (416) 262-4240
+
+***
+
+Your profile now has the perfect professional structure and visual appeal!
+
+The only missing piece is the actual projects. **Let's start brainstorming impressive ideas for your Full Stack Application (Project 1) now.**
