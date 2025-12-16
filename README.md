@@ -1,45 +1,53 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi, I'm Rayan Khan!
 
-### 💻 Computer Science Student | Aspiring [Your Target Role, e.g., Full-Stack Developer]
+### 💻 Computer Science Student | Aspiring Software Developer
 
-Currently pursuing a Bachelor of Science in Computer Science at [Your University Name], graduating in [Year, e.g., 2027].
+[cite_start]Currently pursuing a B.S. in Computer Science at **The University of Ontario Institute of Technology**[cite: 4].
 
 ---
 
 ### 🚀 About Me
 
-* **Passionate about:** [1-2 key areas, e.g., building scalable web applications and exploring the potential of AI/ML.]
-* **Currently focusing on:** Deepening my understanding of **Object-Oriented Design (OOD)** principles and **cloud architecture (AWS/Azure)**.
-* **Currently learning:** [Specific technology, e.g., TypeScript, Go, or a framework like Svelte].
-* **Looking for:** Summer 2026 Internship opportunities in [Role/Industry].
-* **Fun Fact:** [A professional but engaging fact, e.g., "I once built a custom sorting algorithm for a hackathon." or "I'm obsessed with minimizing time complexity."]
+* [cite_start]**Passionate about:** Implementing robust solutions to real-world problems using software development fundamentals[cite: 13].
+* [cite_start]**Currently focusing on:** Deepening my understanding of **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
+* [cite_start]**Gained experience with:** Version control systems (Git), debugging, and integrating APIs through freelance development and self-study[cite: 14, 11].
+* [cite_start]**Professional Strength:** Proven ability to deliver outstanding customer service and strengthen teamwork through collaboration (demonstrated in both retail and public service roles)[cite: 20, 27, 28].
+* [cite_start]**Fun Fact:** I am fluent in English, French, and Urdu[cite: 8].
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-| Category | Technologies |
+[cite_start]*Based on your 'Freelance Developer & Tech Learner' experience [cite: 11] and foundational CS curriculum.*
+
+| Category | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript, [C++/C/Rust] |
-| **Web Dev** | React / HTML / CSS, Node.js / Express, Flask / Django |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools** | Git, GitHub Actions, Docker, VS Code |
+| **Languages** | Python, Java, JavaScript |
+| **Concepts** | [cite_start]Object-Oriented Programming, Data Structures, Algorithms, Compilers & Interpreters [cite: 15, 16] |
+| **Tools & Platforms** | [cite_start]Git, API Integration  |
+| **Soft Skills** | [cite_start]Team Collaboration, Conflict Resolution, Time Management, Leadership [cite: 6, 7] |
 
 ---
 
-### 🌟 Featured Projects (Your top 3-5 repos should go here)
+### 🌟 Featured Projects
 
-* **[Project Name 1]** — A brief, impressive description (e.g., A full-stack e-commerce site built with React and Django, featuring user authentication and Stripe integration).
-    * **Repo Link:** `[Link to Project 1]`
-* **[Project Name 2]** — An application showing a specific skill (e.g., An implementation of A* search algorithm for pathfinding in C++, demonstrating advanced data structures).
-    * **Repo Link:** `[Link to Project 2]`
-* **[Project Name 3]** — A data or utility project (e.g., A Python script using Pandas and Matplotlib to analyze and visualize local housing market trends).
-    * **Repo Link:** `[Link to Project 3]`
+*Since you are a second-year student, you might not have these exact names yet. **Use the strongest projects you've built.** If you don't have three yet, focus on building these next!*
+
+* [cite_start]**Project Name 1 (Focus: Scalability/Web):** A small-scale application built with Python/Java that solved a real-world problem, demonstrating OOP principles and API integration[cite: 13, 14].
+    * *Goal: Link a project showcasing full-stack skills.*
+* [cite_start]**Project Name 2 (Focus: CS Fundamentals):** An implementation of a core data structure (e.g., a custom HashMap or Graph Traversal) in Java or Python, showcasing your algorithms knowledge.
+    * *Goal: Link a project showing depth in CS theory.*
+* **Project Name 3 (Focus: Utility/Scripting):** A practical script or application that uses advanced Python features for data handling or task automation, demonstrating clean, readable code.
+    * *Goal: Link a project showing practical, clean code.*
 
 ---
+
+### 📊 GitHub Stats
+
+*This is where you would embed the dynamic stats card.*
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio/Website:** [Your Personal Website Link (Highly Recommended)]
-* **Email:** [Your Professional Email]
+* [cite_start]**LinkedIn:** linkedin.com/in/rayan-khan-95b85932b [cite: 3]
+* [cite_start]**Email:** linkworkrayan@gmail.com [cite: 3]
+* [cite_start]**Phone:** (416) 262-4240 [cite: 3]
