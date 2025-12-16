@@ -68,8 +68,4 @@ Currently pursuing a Honours Bachelor of Science in Computer Science at **The Un
 * **Email:** linkworkrayan@gmail.com
 * **Phone:** (416) 262-4240
 
-***
 
-Your profile now has the perfect professional structure and visual appeal!
-
-The only missing piece is the actual projects. **Let's start brainstorming impressive ideas for your Full Stack Application (Project 1) now.**
