@@ -23,22 +23,24 @@ Currently pursuing a Honours Bachelor of Science in Computer Science at **The Un
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <h4>🖥️ Languages & Fundamentals</h4>
+        <h4>🖥️ Languages & Frameworks</h4>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
         <br/>
-        <img src="https://img.shields.io/badge/OOP-6C757D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP Badge"/>
-        <img src="https://img.shields.io/badge/Data%20Structures-6C757D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures Badge"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <h4>⚙️ Tools & Professionalism</h4>
+        <h4>⚙️ Fundamentals & Professionalism</h4>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
         <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=webflow&logoColor=white" alt="API Integration Badge"/>
+        <img src="https://img.shields.io/badge/OOP-6C757D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP Badge"/>
         <br/>
-        <img src="https://img.shields.io/badge/Time%20Management-004D40?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Time Management Badge"/>
+        <img src="https://img.shields.io/badge/Data%20Structures-6C757D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures Badge"/>
         <img src="https://img.shields.io/badge/Team%20Collaboration-4DD0E1?style=for-the-badge&logo=microsoft-teams&logoColor=black" alt="Collaboration Badge"/>
       </p>
     </td>
