@@ -17,14 +17,35 @@ Currently pursuing a **B.S. in Computer Science** at **The University of Ontario
 
 ### 🛠 Core Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=webflow&logoColor=white" alt="API Integration Badge"/>
-<img src="https://img.shields.io/badge/OOP-6C757D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP Badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-6C757D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures Badge"/>
-<img src="https://img.shields.io/badge/Time%20Management-004D40?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Time Management Badge"/>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <h4>Languages & Frameworks</h4>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+      </p>
+      <p align="center">
+        <h4>CS Fundamentals</h4>
+        <img src="https://img.shields.io/badge/OOP-6C757D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP Badge"/>
+        <img src="https://img.shields.io/badge/Data%20Structures-6C757D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures Badge"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <h4>Tools & Integration</h4>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+        <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=webflow&logoColor=white" alt="API Integration Badge"/>
+      </p>
+      <p align="center">
+        <h4>Professional Skills</h4>
+        <img src="https://img.shields.io/badge/Time%20Management-004D40?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Time Management Badge"/>
+        <img src="https://img.shields.io/badge/Team%20Collaboration-4DD0E1?style=for-the-badge&logo=microsoft-teams&logoColor=black" alt="Collaboration Badge"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,3 +77,7 @@ Currently pursuing a **B.S. in Computer Science** at **The University of Ontario
 * **LinkedIn:** [linkedin.com/in/rayan-khan-95b85932b](https://linkedin.com/in/rayan-khan-95b85932b)
 * **Email:** linkworkrayan@gmail.com
 * **Phone:** (416) 262-4240
+
+***
+
+**Your next action is to define the projects!** Which one should we brainstorm first: the **Full Stack App (Project 1)** or the **Algorithm Implementation (Project 2)**?
