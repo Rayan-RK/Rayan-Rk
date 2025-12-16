@@ -60,16 +60,6 @@ Currently pursuing a Bachelor of Science in Computer Science at **The University
 
 ---
 
-### 📊 GitHub Activity
-
-[![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME_HERE)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME_HERE)
-
-*(**NOTE:** Remember to replace **`YOUR_USERNAME_HERE`** with your actual GitHub username.)*
-
----
-
 ### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/rayan-khan-95b85932b](https://linkedin.com/in/rayan-khan-95b85932b)
