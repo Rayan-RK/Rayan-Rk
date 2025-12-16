@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | Aspiring Software Developer
 
-[cite_start]Currently pursuing a B.S. in Computer Science at **The University of Ontario Institute of Technology**[cite: 4].
+Currently pursuing a H B.Sc. in Computer Science at **The University of Ontario Institute of Technology**.
 
 ---
 
