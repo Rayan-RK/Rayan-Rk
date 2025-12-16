@@ -1,8 +1,8 @@
 # Hi, I'm Rayan Khan!
 
-## 🎓 B.S. Computer Science | Aspiring Full Stack Developer (Expected Graduation: YYYY)
+## 🎓 HB.Sc. Computer Science | Aspiring Full Stack Developer 
 
-Currently pursuing a Bachelor of Science in Computer Science at **The University of Ontario Institute of Technology**. Focused on delivering scalable, robust software solutions.
+Currently pursuing a Honours Bachelor of Science in Computer Science at **The University of Ontario Institute of Technology**. Focused on delivering scalable, robust software solutions.
 
 ---
 
