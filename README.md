@@ -1,8 +1,8 @@
 # Hi, I'm Rayan!
 
-### 💻 Computer Science Student | Aspiring Software Developer
+### 💻 Computer Science Student | Aspiring Full Stack Developer
 
-Currently pursuing a H B.Sc. in Computer Science at **The University of Ontario Institute of Technology**.
+Currently pursuing a HB.Sc. in Computer Science at **The University of Ontario Institute of Technology**.
 
 ---
 
