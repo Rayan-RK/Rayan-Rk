@@ -53,12 +53,12 @@ Currently pursuing a Honours Bachelor of Science in Computer Science at **The Un
 
 *These are your highest-quality, most completed projects. They should all have dedicated, detailed READMEs explaining the technical decisions and architecture.*
 
-* **[Project Name 1] (Full Stack Application):** A small-scale application built with Python/Java that solved a real-world problem, demonstrating robust OOP principles and API integration.
-    * **Repo:** [Link to Project 1] | **Skills Showcased:** Full-Stack Structure, Debugging, Deployment.
-* **[Project Name 2] (Algorithm Implementation):** An efficient implementation of a core data structure (e.g., Dijkstra's Algorithm or a custom Graph Traversal) in Java or Python, showcasing deep knowledge of computer science theory.
-    * **Repo:** [Link to Project 2] | **Skills Showcased:** Performance Optimization, Algorithmic Analysis ($O(n)$ notation).
-* **[Project Name 3] (Practical Utility):** A practical script or tool that uses advanced Python features (e.g., web scraping, data visualization with Pandas) for automation, demonstrating clean, production-level code.
-    * **Repo:** [Link to Project 3] | **Skills Showcased:** Clean Code, Data Handling, Scripting Efficiency.
+* (Full Stack Application):** A small-scale application built with Python/Java that solved a real-world problem, demonstrating robust OOP principles and API integration.
+    *  **Skills Showcased:** Full-Stack Structure, Debugging, Deployment.
+*  (Algorithm Implementation):** An efficient implementation of a core data structure (e.g., Dijkstra's Algorithm or a custom Graph Traversal) in Java or Python, showcasing deep knowledge of computer science theory.
+    * **Skills Showcased:** Performance Optimization, Algorithmic Analysis ($O(n)$ notation).
+* (Practical Utility):** A practical script or tool that uses advanced Python features (e.g., web scraping, data visualization with Pandas) for automation, demonstrating clean, production-level code.
+    * **Skills Showcased:** Clean Code, Data Handling, Scripting Efficiency.
 
 ---
 
