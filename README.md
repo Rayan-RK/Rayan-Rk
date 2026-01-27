@@ -57,6 +57,6 @@ Currently pursuing my Honours Bachelor of Science in Computer Science at **The U
 
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/rayan-khan-95b85932b](https://linkedin.com/in/rayan-khan-95b85932b)  
+* **LinkedIn:** [www.linkedin.com/in/rayan-r-khan](www.linkedin.com/in/rayan-r-khan)  
 * **Email:** linkworkrayan@gmail.com  
 * **Phone:** (416) 262-4240
