@@ -6,16 +6,6 @@ Currently pursuing my Honours Bachelor of Science in Computer Science at **The U
 
 ---
 
-### 💡 About Me & Core Strengths
-
-> **I build solutions that work AND stay secure — bridging software development with cybersecurity awareness.**
-
-* **Full-Stack Focus:** Object-Oriented Programming (OOP), Data Structures, Algorithms, REST API development, Frontend & Backend integration.  
-* **Cybersecurity Focus:** Secure coding principles, authentication, logging, monitoring, risk awareness, and system reliability.  
-* **Professional Skills:** Strong teamwork, problem solving, and communication from academic, freelance, and professional experience.  
-* **Languages:** Fluent in English & French.
-
----
 
 ### 🛠️ Core Tech Stack & Tools
 
