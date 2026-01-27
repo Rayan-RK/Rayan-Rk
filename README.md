@@ -55,13 +55,6 @@ Currently pursuing my Honours Bachelor of Science in Computer Science at **The U
 
 ---
 
-### 📚 Currently Learning
-- Advanced Full-Stack Development & Performance Optimization  
-- Blue-Team Security & SOC Fundamentals  
-- Linux System Hardening & Monitoring  
-- TryHackMe Labs & Practical Cyber Exercises  
-
----
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/rayan-khan-95b85932b](https://linkedin.com/in/rayan-khan-95b85932b)  
