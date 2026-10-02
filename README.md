@@ -70,9 +70,9 @@
 <br/>
 
 ### 🐍 GitHub Contribution Graph (CI/CD Automation)
-<!-- This is where we will inject the automated animated snake workflow -->
 <div align="center">
-  <p><i>Setting up automated CI/CD contribution graph pipeline...</i></p>
+  <!-- CI/CD Pipeline Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Building+Automated+CI%2FCD+Pipelines...;Executing+GitHub+Actions+Workflow...;Generating+Contribution+Graph+Animation...;Showcasing+Infrastructure+as+Code..." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -81,30 +81,3 @@
 * **Portfolio:** [portfolio-hvic.vercel.app](https://portfolio-hvic.vercel.app)
 * **LinkedIn:** [linkedin.com/in/rayan-r-khan](https://www.linkedin.com/in/rayan-r-khan)
 * **Email:** [linkworkrayan@gmail.com](mailto:linkworkrayan@gmail.com)
-* **Phone:** (416) 262-4240
-* **[Briefly](https://github.com/Rayan-RK/Briefly)** | *Python, React, Supabase SQL*
-  AI-powered legal intelligence application featuring automated document workflows, structured API contracts, and scalable cloud database integration. Demonstrates production web application design and SaaS mechanics.
-
-* **[TradeHouse-Engine](https://github.com/Rayan-RK/TradeHouse-Engine)** | *Java, TCP Sockets, JavaFX, Multi-Threading*
-  High-performance client-server stock market simulation featuring an automated matching engine and low-latency socket networking. Demonstrates strong computer science foundations, concurrency, synchronization, and protocol design.
-
-* **[Meridian Spatial Engine](https://github.com/Rayan-RK/Meridian)** | *Python, FastAPI, Docker, PostgreSQL/PostGIS*
-  Containerized geospatial routing system built to process multi-point routing logic and location-based data indexing. Demonstrates cloud architecture, container management, and microservice backend design.
-
-* **[ClearBudget](https://github.com/Rayan-RK/ClearBudget)** | *Python, JavaScript, HTML5/CSS3*
-  Full-stack personal finance web application with responsive interface components, secure authentication, and financial metric visualizations. Demonstrates full lifecycle development from UI to persistence.
-
-<br/>
-
-<!-- Animated Gradient Blue Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<br/>
-
-### 🔗 Let's Connect
-* **Portfolio:** [portfolio-hvic.vercel.app](https://portfolio-hvic.vercel.app)
-* **LinkedIn:** [linkedin.com/in/rayan-r-khan](https://www.linkedin.com/in/rayan-r-khan)
-* **Email:** [linkworkrayan@gmail.com](mailto:linkworkrayan@gmail.com)
-* **Phone:** (416) 262-4240
