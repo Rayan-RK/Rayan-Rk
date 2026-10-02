@@ -1,9 +1,12 @@
+<!-- Midnight / Space Grey Wavy Banner (Aesthetic Header) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=150&section=header" width="100%"/>
+
 <div align="center">
   <!-- Fast Letter-by-Letter Name Animation (Adapts to Light/Dark Mode) -->
   <a href="https://github.com/Rayan-RK">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
-      <img alt="Hi there, I'm Rayan Khan!" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=3000&color=151e2b&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
+      <img alt="Hi there, I'm Rayan Khan!" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=3000&color=151e2b&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
     </picture>
   </a>
   
