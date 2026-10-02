@@ -1,7 +1,12 @@
-<!-- Midnight / Space Grey Wavy Banner with Laptop Emoji -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=280&section=header&text=Hi%20there,%20I'm%20Rayan!%20👨‍💻&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
 <div align="center">
+  <!-- Fast Letter-by-Letter Name Animation (Adapts to Light/Dark Mode) -->
+  <a href="https://github.com/Rayan-RK">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
+      <img alt="Hi there, I'm Rayan Khan!" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=3000&color=151e2b&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
+    </picture>
+  </a>
+  
   <!-- Broad Role Typing Animation with iOS System Blue & Inter (SF Pro) Font -->
   <a href="https://github.com/Rayan-RK">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Backend+Software+Engineer;Distributed+Systems+%26+Cloud+Architect;API+Designer+%26+Database+Engineer;Eager+Generalist+%26+Rapid+Learner" alt="Typing SVG" />
