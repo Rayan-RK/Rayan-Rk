@@ -25,7 +25,7 @@
 
 <br/>
 
-###  Technical Expertise & Tooling
+### 🛠️ Technical Expertise & Tooling
 
 <div align="center">
   <p><b>Core Languages & Web Frameworks</b></p>
@@ -73,6 +73,14 @@
 <div align="center">
   <!-- CI/CD Pipeline Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Building+Automated+CI%2FCD+Pipelines...;Executing+GitHub+Actions+Workflow...;Generating+Contribution+Graph+Animation...;Showcasing+Infrastructure+as+Code..." alt="Typing SVG" />
+  
+  <!-- Snake Animation Placeholder (Will be replaced by CI/CD output) -->
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayan-RK/Rayan-RK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayan-RK/Rayan-RK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rayan-RK/Rayan-RK/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
