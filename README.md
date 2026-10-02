@@ -1,15 +1,7 @@
-<!-- Midnight / Space Grey Wavy Banner (Aesthetic Header) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=150&section=header" width="100%"/>
+<!-- Midnight / Space Grey Wavy Banner with Laptop Emoji -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=280&section=header&text=Hi%20there,%20I'm%20Rayan!%20👨‍💻&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <!-- Fast Letter-by-Letter Name Animation (Adapts to Light/Dark Mode) -->
-  <a href="https://github.com/Rayan-RK">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
-      <img alt="Hi there, I'm Rayan Khan!" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=3000&color=151e2b&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Rayan+Khan!+👨‍💻">
-    </picture>
-  </a>
-  
   <!-- Broad Role Typing Animation with iOS System Blue & Inter (SF Pro) Font -->
   <a href="https://github.com/Rayan-RK">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Backend+Software+Engineer;Distributed+Systems+%26+Cloud+Architect;API+Designer+%26+Database+Engineer;Eager+Generalist+%26+Rapid+Learner" alt="Typing SVG" />
@@ -33,7 +25,7 @@
 
 <br/>
 
-### 🛠️ Technical Expertise & Tooling
+###  Technical Expertise & Tooling
 
 <div align="center">
   <p><b>Core Languages & Web Frameworks</b></p>
@@ -56,6 +48,40 @@
 
 ### 📁 Featured Engineering Projects
 
+* **[Briefly](https://github.com/Rayan-RK/Briefly)** | *Python, React, Supabase SQL*
+  AI-powered legal intelligence application featuring automated document workflows, structured API contracts, and scalable cloud database integration. Demonstrates production web application design and SaaS mechanics.
+
+* **[TradeHouse-Engine](https://github.com/Rayan-RK/TradeHouse-Engine)** | *Java, TCP Sockets, JavaFX, Multi-Threading*
+  High-performance client-server stock market simulation featuring an automated matching engine and low-latency socket networking. Demonstrates strong computer science foundations, concurrency, synchronization, and protocol design.
+
+* **[Meridian Spatial Engine](https://github.com/Rayan-RK/Meridian)** | *Python, FastAPI, Docker, PostgreSQL/PostGIS*
+  Containerized geospatial routing system built to process multi-point routing logic and location-based data indexing. Demonstrates cloud architecture, container management, and microservice backend design.
+
+* **[ClearBudget](https://github.com/Rayan-RK/ClearBudget)** | *Python, JavaScript, HTML5/CSS3*
+  Full-stack personal finance web application with responsive interface components, secure authentication, and financial metric visualizations. Demonstrates full lifecycle development from UI to persistence.
+
+<br/>
+
+<!-- Animated Gradient Blue Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</div>
+
+<br/>
+
+### 🐍 GitHub Contribution Graph (CI/CD Automation)
+<!-- This is where we will inject the automated animated snake workflow -->
+<div align="center">
+  <p><i>Setting up automated CI/CD contribution graph pipeline...</i></p>
+</div>
+
+<br/>
+
+### 🔗 Let's Connect
+* **Portfolio:** [portfolio-hvic.vercel.app](https://portfolio-hvic.vercel.app)
+* **LinkedIn:** [linkedin.com/in/rayan-r-khan](https://www.linkedin.com/in/rayan-r-khan)
+* **Email:** [linkworkrayan@gmail.com](mailto:linkworkrayan@gmail.com)
+* **Phone:** (416) 262-4240
 * **[Briefly](https://github.com/Rayan-RK/Briefly)** | *Python, React, Supabase SQL*
   AI-powered legal intelligence application featuring automated document workflows, structured API contracts, and scalable cloud database integration. Demonstrates production web application design and SaaS mechanics.
 
