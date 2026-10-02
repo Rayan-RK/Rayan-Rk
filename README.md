@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=280&section=header&text=Hi%20there,%20I'm%20Rayan!%20👨‍💻&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <!-- Broad Role Typing Animation with iOS System Blue & Inter (SF Pro) Font -->
+  <!-- Expanded Role Typing Animation with iOS System Blue & Inter (SF Pro) Font -->
   <a href="https://github.com/Rayan-RK">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Backend+Software+Engineer;Distributed+Systems+%26+Cloud+Architect;API+Designer+%26+Database+Engineer;Eager+Generalist+%26+Rapid+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Backend+Software+Engineer;Distributed+Systems+%26+Cloud+Architect;API+Designer+%26+Database+Engineer;Eager+Generalist+%26+Rapid+Learner;Python,+Java+%26+React+Developer;AI+%26+SaaS+Application+Builder;Concurrency+%26+Systems+Enthusiast;Passionate+Problem+Solver;Continuous+Learner+%26+Builder" alt="Typing SVG" />
   </a>
 </div>
 
