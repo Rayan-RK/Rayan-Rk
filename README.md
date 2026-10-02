@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=151e2b&height=280&section=header&text=Hi%20there,%20I'm%20Rayan!%20👨‍💻&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <!-- Broad Role Typing Animation with Apple iOS System Blue & Inter (SF Pro) Font -->
+  <!-- Broad Role Typing Animation with iOS System Blue & Inter (SF Pro) Font -->
   <a href="https://github.com/Rayan-RK">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Backend+Software+Engineer;Distributed+Systems+%26+Cloud+Architect;API+Designer+%26+Database+Engineer;Eager+Generalist+%26+Rapid+Learner" alt="Typing SVG" />
   </a>
@@ -25,20 +25,16 @@
 
 <br/>
 
-###  Technical Expertise & Tooling
+### 🛠️ Technical Expertise & Tooling
 
 <div align="center">
   <p><b>Core Languages & Web Frameworks</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,c,react,nextjs,nodejs,express,fastapi,tailwind&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,c,react,nextjs,nodejs,express,fastapi,tailwind&perline=12" />
 </div>
 <br/>
 <div align="center">
   <p><b>Databases, Cloud & Architecture</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mysql,mongo,docker,aws,git,githubactions,linux,vercel,postman&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mysql,mongo,docker,aws,git,githubactions,linux,vercel,postman&perline=12" />
 </div>
 
 <br/>
@@ -77,3 +73,4 @@
 * **Portfolio:** [portfolio-hvic.vercel.app](https://portfolio-hvic.vercel.app)
 * **LinkedIn:** [linkedin.com/in/rayan-r-khan](https://www.linkedin.com/in/rayan-r-khan)
 * **Email:** [linkworkrayan@gmail.com](mailto:linkworkrayan@gmail.com)
+* **Phone:** (416) 262-4240
